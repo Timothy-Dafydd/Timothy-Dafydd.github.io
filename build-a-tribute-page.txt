@@ -1,0 +1,64 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head><link rel="stylesheet" href="styles.css"></head>
+<body><main id="main">
+  <h1 id="title">This is just a tribute</h1>
+    <p>like 'the devil went down to Georgia', only...</p>
+  <figure id="img-div">
+      <img id="image" src="data:image/png;base64,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" alt="the demon found us on the road">
+      <figcaption id="img-caption">the demon found us on the road</fidcaption>
+        </figure>
+<section id="tribute-info">
+    <h2 id="headline">Play the best song in the world</h2>
+    <ul>
+<li>Long time ago me and my brother Kyle here,
+<li>We was hitchhiking down a long and lonesome road.
+<li>All of a sudden,
+<li>There shined a shiny demon,
+<li>In the middle of the road,
+<li>And he said!
+</ul>
+<h3>
+  For further detail, see <a id="tribute-link" href="https://en.wikipedia.org/wiki/Tribute_(song)" target="_blank">This Wiki</a>.
+  </h3></section>
+</main></body>
+
+** end of undefined **
+
+** start of undefined **
+
+html {
+   font-size: 10px;
+}
+body {
+  font-family:Brush Script MT;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  margin: 0;}
+main{
+  background-color:rgb(130,70,30);
+centre:auto;
+}
+
+#title{
+  color:rgb(10,10,180);
+}
+
+img {
+  opacity: 0.7;
+  max-width:100%;
+  max-height:auto;
+  display:block;
+  margin: 0 auto;
+  }
+
+a /* CSS link color */{
+color:rgb(10,10,180)
+
+}
+
+** end of undefined **
+
